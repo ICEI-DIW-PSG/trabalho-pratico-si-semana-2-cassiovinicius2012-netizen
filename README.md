@@ -3,9 +3,10 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Cássio Vinicius de Bsrros Costa
+- Matricula: 904546
 
 ## Print da tela da página criada (Curriculum Vitae)
+<img src="image.png" alt="print do curriculo">
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
